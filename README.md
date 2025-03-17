@@ -1,3 +1,5 @@
+O Node.js é um ambiente de execução JavaScript, permitindo criação de servidores e APIs. Aprendemos a usar o NPM para instalar pacotes, como o Prettier e o Axios, e a configurar scripts no `package.json`. Migramos um projeto para o Vite, diferenciamos dependências de desenvolvimento e produção e realizamos deploy com GitHub e Vercel.
+
 ![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
 
 # VidFlow
